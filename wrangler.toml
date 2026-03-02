@@ -1,0 +1,4 @@
+name = "anyrouter2api"
+main = "worker.py" # 或者是你的入口文件名，例如 src/worker.py
+compatibility_date = "2024-04-03"
+compatibility_flags = ["python_workers"]
